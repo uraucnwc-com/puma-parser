@@ -1,0 +1,8 @@
+# Protocols Configuration File
+default:
+  - name: HTTP
+    description: Hypertext Transfer Protocol
+    port: 80
+  - name: FTP
+    description: File Transfer Protocol
+    port: 21
